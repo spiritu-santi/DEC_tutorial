@@ -1,0 +1,2 @@
+Iteration	Posterior	Likelihood	Prior	clado_event_probs[1]	clado_event_probs[2]	clock_bg	er_base	ldd	p_allopatry	p_sympatry
+0	-1423.031	-364.5902	-1058.441	0.15	0.85	0.01	0.01	0.1	0.85	0.15
